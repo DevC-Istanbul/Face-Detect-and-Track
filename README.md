@@ -5,7 +5,7 @@
 
 git clone https://github.com/DevC-Istanbul/Face-Detect-and-Track
 
-cd Face Track
+cd Face Detect and Track
 
 jupyter notebook face_det_track.py
 
